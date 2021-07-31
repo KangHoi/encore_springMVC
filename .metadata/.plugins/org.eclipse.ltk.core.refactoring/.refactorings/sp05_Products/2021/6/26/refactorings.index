@@ -1,0 +1,16 @@
+1624496984054	Rename type 'Product'
+1624497064444	Rename type 'MyProduct'
+1624497330557	Rename resource 'item-shopping-mapper.xml'
+1624498520290	Delete element
+1624498523950	Delete element
+1624501326771	Move 'myProductView.jsp' to 'views'
+1624503494685	Rename resource 'mySearchView.jsp'
+1624503579436	Copy file
+1624517876452	Delete element
+1624518317952	Delete element
+1624518351436	Delete element
+1624524731652	Move 'myProductView.jsp' to 'results'
+1624524733846	Move 'mySearchListView.jsp' to 'results'
+1624524735416	Move 'mySearchView.jsp' to 'results'
+1624524744966	Delete element
+1624524798416	Delete element
